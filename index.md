@@ -16,7 +16,7 @@ My email address is akzspeiser@gmail.com.
 ## About My Mentor
 
 My mentor's name is Dr. Julie Adams, she is the Dean's Professor of Robotics at OSU. Her area of research is swarm technology including drones.
-Her website is [Dr. Julie Adams](https://engineering.oregonstate.edu/people/julie-adams)
+Her website is [Dr. Julie Adams](https://engineering.oregonstate.edu/people/julie-adams).
 ## About My Project
 
 We will be working with an autonomous underwater arm that we will be teaching how to pick things up from the simulated ocean floor. We will be submerging it in the wave pool at OSU and using test subjects to try and teach it to grasp things themselves. We will also be working to program drones to play "Blob Tag" where one drone is and sequentially touches another drone and they are linked and at a point, the multitude of drones splits in half. once all of the drones have been "blobbed" the game is over.
