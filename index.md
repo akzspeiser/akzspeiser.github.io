@@ -3,9 +3,6 @@ layout: default
 title: Summer 2023 DREU Project Site
 ---
 
-* TOC
-{:toc}
-
 ## About Me
 
 Hello, I am Zachary Ray Speiser but I go by Zac. I moved here to Oregon about 5 years ago from Alaska and started school 3 years ago.
