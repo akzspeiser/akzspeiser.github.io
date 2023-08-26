@@ -17,6 +17,8 @@ Her website is [Dr. Julie Adams](https://engineering.oregonstate.edu/people/juli
 
 We will be working with an autonomous underwater arm that we will be teaching how to pick things up from the simulated ocean floor. We will be submerging it in the wave pool at OSU and using test subjects to try and teach it to grasp things themselves. We will also be working to program drones to play "Blob Tag" where one drone is and sequentially touches another drone and they are linked and at a point, the multitude of drones splits in half. once all of the drones have been "blobbed" the game is over.
 
+[My Final Presentation](files/finalpresentation.pdf)
+
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
