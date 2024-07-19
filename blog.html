@@ -3,29 +3,16 @@ layout: post
 title: DREU Blog 
 ---
 
-<div class="welcome-section">
-  <h1>Welcome to My DREU Blog for the Summer of 2024</h1>
-  <p>Hello and welcome to my blog! This summer, I'm thrilled to be part of the Distributed Research Experiences for Undergraduates (DREU) program. Here, I'll be documenting my journey, experiences, and learnings as I dive deep into the fascinating world of robotics and neuroprosthetics at Oregon State University.</p>
-
-  <h2>About Me</h2>
-  <p>I'm currently an undergraduate student double majoring in Computer Science and Electrical and Computer Engineering. My passion lies in the intersection of technology and biology, specifically in developing advanced neuroprosthetics that can significantly improve the quality of life for individuals with disabilities.</p>
-
-  <h2>What to Expect</h2>
-  <p>Throughout this blog, I'll be sharing insights and updates on various projects I'm working on, including:</p>
-  <ul>
-    <li>Working with a Franka Research 3 robotic arm to create a dataset of robot motions with voice commands.</li>
-    <li>Contributing to suture research with voice commands tied to robot actions.</li>
-  </ul>
-
-  <h2>Stay Tuned</h2>
-  <p>I'll also be reflecting on my experiences, discussing the challenges I face, and celebrating the milestones I achieve. I hope this blog will not only serve as a record of my journey but also inspire others who are interested in robotics, neuroprosthetics, and research.</p>
-
-  <p>Thank you for joining me on this exciting adventure. Feel free to explore the posts below and stay tuned for more updates!</p>
-</div>
-
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
