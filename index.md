@@ -2,7 +2,6 @@
 title: Summer 2024 DREU Project Site
 ---
 
-
 <img src="images/me.jpg" alt="Picture of me" style="width: 200px;">
 
 # 🌟 Welcome to My Project Site 🌟
@@ -58,6 +57,7 @@ This process will help us understand how humans communicate tasks to robots and 
 
 - [My Final Presentation](files/finalpresentation.pdf)
 - [My Final Report](files/finalreport.pdf)
+- [Scrape That Barnacle: Commanding Underwater Robot In-Contact Manipulation Tasks with Intuitive Spatial-Temporal-Force Features](files/Scrape_That_Barnacle.pdf)
 
 ## My Blog
 
