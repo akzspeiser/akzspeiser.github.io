@@ -55,7 +55,7 @@ This process will help us understand how humans communicate tasks to robots and 
 
 ### Project Deliverables
 
-- [My Final Presentation](files/finalpresentation.pdf)
+- [Mid Project Presentation](files/finalpresentation.pdf)
 - [My Final Report](files/finalreport.pdf)
 - [Scrape That Barnacle: Commanding Underwater Robot In-Contact Manipulation Tasks with Intuitive Spatial-Temporal-Force Features](files/Scrape_That_Barnacle.pdf)
 
